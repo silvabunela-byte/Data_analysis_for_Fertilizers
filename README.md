@@ -1,4 +1,4 @@
-#**The information about the author of the project.
+#**The information about the author of the project**.
 **Author:** Silva Seni Bunela.
 **Position:** Agricultural Engineering Student at SUA.
 ---
