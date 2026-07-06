@@ -1,6 +1,6 @@
 #**The information about the author of the project.
-**Author:** Silva Seni Bunela/n
-**Position:** Agricultural Engineering Student at SUA
+**Author:** Silva Seni Bunela.
+**Position:** Agricultural Engineering Student at SUA.
 ---
 **Name of Project:** Fertilizer analysis
 # **Aim of the Project**
